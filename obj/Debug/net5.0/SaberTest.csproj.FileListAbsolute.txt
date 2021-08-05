@@ -1,0 +1,16 @@
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\bin\Debug\net5.0\SaberTest.exe
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\bin\Debug\net5.0\SaberTest.deps.json
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\bin\Debug\net5.0\SaberTest.runtimeconfig.json
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\bin\Debug\net5.0\SaberTest.runtimeconfig.dev.json
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\bin\Debug\net5.0\SaberTest.dll
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\bin\Debug\net5.0\ref\SaberTest.dll
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\bin\Debug\net5.0\SaberTest.pdb
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\obj\Debug\net5.0\SaberTest.csprojAssemblyReference.cache
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\obj\Debug\net5.0\SaberTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\obj\Debug\net5.0\SaberTest.AssemblyInfoInputs.cache
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\obj\Debug\net5.0\SaberTest.AssemblyInfo.cs
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\obj\Debug\net5.0\SaberTest.csproj.CoreCompileInputs.cache
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\obj\Debug\net5.0\SaberTest.dll
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\obj\Debug\net5.0\ref\SaberTest.dll
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\obj\Debug\net5.0\SaberTest.pdb
+C:\Users\Nekohime\source\repos\SaberTest\SaberTest\obj\Debug\net5.0\SaberTest.genruntimeconfig.cache
