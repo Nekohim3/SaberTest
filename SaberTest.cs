@@ -24,7 +24,7 @@ namespace SaberTest
 
             SetRandomNode(listRandom);
 
-            Console.WriteLine("Serealized ListRandom:");
+            Console.WriteLine("Serialized ListRandom:");
 
             foreach (var item in listRandom.ToList())
                 Console.WriteLine(item);
@@ -32,14 +32,14 @@ namespace SaberTest
             using (var fs = new FileStream("data.bin", FileMode.Create, FileAccess.Write))
                 listRandom.Serialise(fs);
 
-            var deserealizedListRandom = new ListRandom();
+            var deserializedListRandom = new ListRandom();
 
             using (var fs = new FileStream("data.bin", FileMode.Open, FileAccess.Read))
-                deserealizedListRandom.Deserealize(fs);
+                deserializedListRandom.Deserealize(fs);
 
-            Console.WriteLine("\nDeserealized ListRandom:");
+            Console.WriteLine("\nDeserialized ListRandom:");
 
-            foreach (var item in deserealizedListRandom.ToList())
+            foreach (var item in deserializedListRandom.ToList())
                 Console.WriteLine(item);
 
             Console.ReadLine();
